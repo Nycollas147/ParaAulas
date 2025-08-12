@@ -1,0 +1,17 @@
+  # Quais Dias os Gerentes Podem ter Acesso ao  Escritório 
+Acesso=  int(input("Dias Segunda,Terça,Sexta: "))  
+
+if Acesso <=1: 
+   print("Toda Semana com Supervisão os Gerentes.")
+   
+else:
+   print("Caso Não Aceitar a Supervisão Não Terá Acesso.")
+   
+     # Quais Dias os Estagiários Podem ter Acesso ao  Escritório 
+Estagiário= int(input("Dias Sabado,Domigo: ")) 
+
+if Estagiário <=1:
+   print("Dias de Sábado é domigo com Supervisão Estagiários.") 
+   
+else:
+   print("Caso Não Aceitar Nois Iremos Informar Que Regra da Empresa  Não Terá Acesso.")
