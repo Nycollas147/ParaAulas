@@ -6,12 +6,11 @@ Semana  18- Aula 3- Requisitos e fases do processo
   SGSI 
   LGPD 
   OWASP 
-  Vulnerabilidade 
-  Intrusa 
-  Defesa 
-  Erro = Bug 
-  Lacuna 
-  Risco
+  Vulnerabilidade  {
+  Intrusa          {
+  Defesa           { Risco
+  Erro = Bug       {
+  Lacuna           {
 
 Processos De Desenvolvimento de software 
 Semana 17- Aula 3- Validação   
@@ -21,3 +20,21 @@ check
 check 
 não check 
 check
+
+Semana 18 Aulas 1,2, e 3 
+-Aplicação do Encapssulamento em um projeto prático 
+Classes 
+    -Objetos
+         -Métodos{Funções 
+Poo 
+ Progamação orientada a objetos 
+   Algoritmo - Liguagem - Programa 
+                Python    Software
+                Java
+                C
+                C++
+                C#
+
+              proc 
+                    Saída
+Entrada - Proc - Saída
