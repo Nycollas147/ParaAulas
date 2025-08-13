@@ -12,3 +12,12 @@ Semana  18- Aula 3- Requisitos e fases do processo
   Erro = Bug 
   Lacuna 
   Risco
+
+Processos De Desenvolvimento de software 
+Semana 17- Aula 3- Validação   
+Check list das Atividades
+Lista de Validação 
+check 
+check 
+não check 
+check
