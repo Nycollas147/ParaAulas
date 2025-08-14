@@ -12,3 +12,11 @@ Semana  18- Aula 3- Requisitos e fases do processo
   Erro = Bug 
   Lacuna 
   Risco
+
+# Para Hoje
+Processsos de desenvolvimento de Software 
+Semana 18 
+Atividades de Registro 
+
+Aula de Lógica 
+Semana 18 Aula 1- Criação de Programas
