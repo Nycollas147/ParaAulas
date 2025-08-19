@@ -23,6 +23,8 @@ Semana 18 Aula 1- Criação de Programas
 
 Reuniao= input("Objetivo Qual Sala Voce Estará nessa Reunião (Em Qual Reuniaõ se estará):") 
 
+Aula de Lógica
+Semana 17 Aula 3- códigos
 if Reuniao== "Voce Estará na Sala Pequena":
      Sala= "Se foi Convidado para Essa Reunião  ideal para reuniões com até 5 pessoas."
       
