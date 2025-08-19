@@ -1,6 +1,6 @@
 # ParaAulas
 Esse Repositório é Para Aulas de Lógica é para meus projetos
-Redes e segurança em buvem
+Redes e segurança em nuvem
 Semana  18- Aula 3- Requisitos e fases do processo 
   ISO 27001 
   SGSI 
@@ -37,4 +37,15 @@ elif Reuniao== "Vai ser na Sala Grande":
 else: 
      Sala= "Essa Sala não Existe." 
      
-print(Sala)
+print(Sala) 
+
+# Atividade para Hoje 
+Prof.Rogério Rocha 
+Redes e segurança em nuvem 
+Semana 19- Aula 2 e 3 
+        CID            Pen Test  
+      LGPD
+        PSI    
+Aula 3
+AImplementação da PSI 
+Análise da Dowmenhação
