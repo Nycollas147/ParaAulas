@@ -49,3 +49,14 @@ Semana 19- Aula 2 e 3
 Aula 3
 AImplementação da PSI 
 Análise da Dowmenhação
+
+Prof.Rogério Rocha 
+Processos de desenvolvimento de Software 
+Semana 19- Aula 3- Metodos para teste de software teste p/Requistos não funcionais 
+     Segurança 
+     Desempenho
+     Disponibilidade 
+     Escalabilidade 
+S.O. Linux Kali (pacote) -(Burp Suite)
+     -Derian                 -Destinado para Teste de SOftware;
+        Ubunton  
